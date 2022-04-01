@@ -19,9 +19,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.louis</groupId>
-	<artifactId>com.louis.projectone</artifactId>
+	<artifactId>main.projectone</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>com.louis.projectone</name>
+	<name>main.projectone</name>
 	<description>projectOne for Louis</description>
 	<properties>
 		<java.version>11</java.version>
