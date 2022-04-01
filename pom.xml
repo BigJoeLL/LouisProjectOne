@@ -5,7 +5,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>app/bootstrap</module>
-		<module>app/untitled</module>
+		<module>app/dal</module>
 		<module>app/facade</module>
 		<module>app/model</module>
 		<module>app/service</module>
