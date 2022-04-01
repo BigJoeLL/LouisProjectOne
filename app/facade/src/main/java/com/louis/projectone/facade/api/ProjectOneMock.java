@@ -5,7 +5,7 @@ import com.louis.projectone.model.response.ProjectOneMockResponse;
 
 /**
  * LouisProjectOne
- * com.louis.projectone.facade.api
+ * main.projectone.facade.api
  * Created by luyib on 2022/4/1 19:04
  */
 public interface ProjectOneMock {
