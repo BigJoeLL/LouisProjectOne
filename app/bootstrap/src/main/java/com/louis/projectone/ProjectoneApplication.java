@@ -1,4 +1,4 @@
-package com.bigjoe.projectone;
+package com.louis.projectone;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
