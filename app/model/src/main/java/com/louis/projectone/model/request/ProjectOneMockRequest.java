@@ -1,4 +1,4 @@
-package main.com.louis.projectone.model.request;
+package com.louis.projectone.model.request;
 
 /**
  * LouisProjectOne

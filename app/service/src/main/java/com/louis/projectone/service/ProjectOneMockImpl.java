@@ -1,8 +1,8 @@
-package main.com.louis.projectone.service;
+package com.louis.projectone.service;
 
-import main.com.louis.projectone.facade.api.ProjectOneMock;
-import main.com.louis.projectone.model.request.ProjectOneMockRequest;
-import main.com.louis.projectone.model.response.ProjectOneMockResponse;
+import com.louis.projectone.facade.api.ProjectOneMock;
+import com.louis.projectone.model.request.ProjectOneMockRequest;
+import com.louis.projectone.model.response.ProjectOneMockResponse;
 import org.springframework.stereotype.Service;
 
 /**

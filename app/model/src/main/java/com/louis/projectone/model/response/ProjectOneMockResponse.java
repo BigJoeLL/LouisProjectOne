@@ -1,4 +1,4 @@
-package main.com.louis.projectone.model.response;
+package com.louis.projectone.model.response;
 
 /**
  * LouisProjectOne
