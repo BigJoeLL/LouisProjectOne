@@ -27,7 +27,7 @@ public class ProjectOneMockImpl implements ProjectOneMock {
         return serviceTemplate.execute(new ServiceInvokeHandler<ProjectOneMockResponse>() {
             @Override
             public void validate() {
-                if (projectOneMockRequest.getContent() == null){
+                if (projectOneMockRequest.getContent().isEmpty()){
                     throw new ProjectOneParamIllegalException("Content cannot be null!");
                 }
             }
