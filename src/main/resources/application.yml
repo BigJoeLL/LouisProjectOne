@@ -1,0 +1,3 @@
+mybatis:
+  type-aliases-package: com.louis.projectone.dal.entity
+  mapper-locations: classpath:com/louis/projectone/dal/mapper/POcontentMapper.xml
