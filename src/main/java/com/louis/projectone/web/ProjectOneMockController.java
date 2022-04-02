@@ -24,7 +24,7 @@ public class ProjectOneMockController {
     @ResponseBody
     @RequestMapping(value = "/mock", method = RequestMethod.POST)
     public ProjectOneMockResponse projectOneMock(@RequestBody ProjectOneMockRequest projectOneMockRequest) {
-        logger.info("projectOneMock receive message:\n" + projectOneMockRequest);
+        logger.info("projectOneMock receive message:\n" + projectOneMockRequest.toString());
 //        return null;
 //        return "test";
         return projectOneMock.getResponse(projectOneMockRequest);
