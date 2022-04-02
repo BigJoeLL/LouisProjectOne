@@ -1,6 +1,6 @@
 package com.louis.projectone.web;
 
-import com.louis.projectone.api.ProjectOneMock;
+import com.louis.projectone.facede.api.ProjectOneMock;
 import com.louis.projectone.model.request.ProjectOneMockRequest;
 import com.louis.projectone.model.response.ProjectOneMockResponse;
 import org.slf4j.Logger;

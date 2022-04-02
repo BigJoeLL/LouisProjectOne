@@ -1,4 +1,4 @@
-package com.louis.projectone.api;
+package com.louis.projectone.facede.api;
 
 import com.louis.projectone.model.request.ProjectOneMockRequest;
 import com.louis.projectone.model.response.ProjectOneMockResponse;
